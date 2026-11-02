@@ -1,0 +1,5 @@
+Conține informații din OpenLigaDB, disponibile sub Open Database License (ODbL) 1.0. Baza derivată SPORTS INTELLIGENCE — OpenLigaDB este oferită sub aceeași licență, gratuit.
+https://opendatacommons.org/licenses/odbl/1-0/
+Selecție explicită a competițiilor și câmpurilor; fără imagini/persoane sau alți furnizori.
+Identități și UTC validate; lipsuri păstrate ca null; status unknown păstrat; FT90 separat de prelungiri/penalty-uri.
+Duplicate identice omise; conflicte de identitate carantinate; indicatori descriptivi și Elo EXPERIMENTAL adăugați.
